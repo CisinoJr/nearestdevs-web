@@ -56,6 +56,7 @@ function DevForm({ onSubmit }) {
           id="techs"
           required
           value={techs}
+          placeholder="Exemplo: Java, C3, NodeJs..."
           onChange={e => setTechs(e.target.value)}
         />
       </div>
