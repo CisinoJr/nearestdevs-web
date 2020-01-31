@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nearestdevs-web/static/css/main.eeab48ed.chunk.css",
-    "main.js": "/nearestdevs-web/static/js/main.2cd557cc.chunk.js",
-    "main.js.map": "/nearestdevs-web/static/js/main.2cd557cc.chunk.js.map",
+    "main.js": "/nearestdevs-web/static/js/main.4a7a8dce.chunk.js",
+    "main.js.map": "/nearestdevs-web/static/js/main.4a7a8dce.chunk.js.map",
     "runtime-main.js": "/nearestdevs-web/static/js/runtime-main.67b3a95a.js",
     "runtime-main.js.map": "/nearestdevs-web/static/js/runtime-main.67b3a95a.js.map",
     "static/js/2.364e6f66.chunk.js": "/nearestdevs-web/static/js/2.364e6f66.chunk.js",
     "static/js/2.364e6f66.chunk.js.map": "/nearestdevs-web/static/js/2.364e6f66.chunk.js.map",
     "index.html": "/nearestdevs-web/index.html",
-    "precache-manifest.78b034a52bcd3f6460b7c9429a89e69d.js": "/nearestdevs-web/precache-manifest.78b034a52bcd3f6460b7c9429a89e69d.js",
+    "precache-manifest.a5a4e294ce6ec18984795f2dd336a486.js": "/nearestdevs-web/precache-manifest.a5a4e294ce6ec18984795f2dd336a486.js",
     "service-worker.js": "/nearestdevs-web/service-worker.js",
     "static/css/main.eeab48ed.chunk.css.map": "/nearestdevs-web/static/css/main.eeab48ed.chunk.css.map",
     "static/js/2.364e6f66.chunk.js.LICENSE": "/nearestdevs-web/static/js/2.364e6f66.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.67b3a95a.js",
     "static/js/2.364e6f66.chunk.js",
     "static/css/main.eeab48ed.chunk.css",
-    "static/js/main.2cd557cc.chunk.js"
+    "static/js/main.4a7a8dce.chunk.js"
   ]
 }
